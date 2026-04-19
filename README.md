@@ -1,2 +1,3 @@
 # Mediquike
-this is a mini e-commerce store where you can buy or sell medicines
+This is a mini e-commerce store where you can buy or sell medicines
+The platform allows users to browse, compare, and purchase medicines online, while sellers can list their products and manage inventory efficiently. It supports both B2B and B2C models, ensuring fast delivery and smooth transactions. With features like secure payments, order tracking, and user-friendly navigation, the website simplifies the process of sourcing medicines. The goal is to create a reliable, efficient, and scalable digital marketplace that improves accessibility and convenience in the pharmaceutical supply chain.
